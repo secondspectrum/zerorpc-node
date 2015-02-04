@@ -1,23 +1,20 @@
 {
-    "name": "zerorpc",
+    "name": "ssi-zerorpc",
     "version": "0.9.3",
     "main": "./index.js",
     "author": "dotCloud <opensource@dotcloud.com>",
     "description": "A port of ZeroRPC to node.js",
 
     "contributors": [{
-        "name": "Francois-Xavier Bourlet",
-        "email": "fx@dotcloud.com"
-    },{
-        "name": "Yusuf Simonson",
-        "email": "yusuf@dotcloud.com"
+        "name": "Sheldon Kwok",
+        "email": "sheldon@secondspectrum.com"
     }],
     "scripts": {
       "test": "./node_modules/.bin/nodeunit test"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dotcloud/zerorpc-node"
+        "url": "https://github.com/secondspectrum/zerorpc-node"
     },
 
     "keywords": [
