@@ -37,6 +37,9 @@
     "devDependencies": {
         "nodeunit": "0.7.4"
     },
+    "publishConfig": {
+      "registry": "https://ssi.registry.nodejitsu.com"
+    },
 
     "license": "MIT"
 }
